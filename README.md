@@ -1,19 +1,35 @@
-# Módulo 3 - Trilha HTML
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+## 🏋️‍♂️ Desafio de Projeto HTML e CSS: Recriando o Wikipedia com Layout Moderno.
 
-## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+Desafio de projeto proposto no curso de Formação HTML Web Developer para criação de uma página semelhante ao Wikipedia. <br>
+Os temas abordados são:<br>  
+- As propriedades básicas da linguagem de estilização.
+- Estruturação e formatação de texto.
+- As unidades de medidas
+- Semântica e acessibilidade.<br>
 
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+Além de outros recursos.
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
+## 💻 Tecnologias utilizadas nesse projeto:
 
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
+<div style="display: inline_block">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
+## 💻 Preview:
+- Veja como ficou o projeto acessando: [nesse link do Github Pages](https://ernandesneponuceno.github.io/Recriando-o-Wikipedia-com-Layout-Moderno/)
+  
+![Imagem do Projeto](assets/images/Recriando-Wikipedia.png)
+
+## 🤔 O que aprendi com esse projeto:
+- Aprimorar minhas habilidades em HTML e CSS.
+- Margem, preenchimento e fonte padrão.
+- Propriedades de layout e visualização.
+- Estilização de botões e ícones.
+- Estilização de texto, posição dos elementos e boas práticas de design.
+
+## 📌 Créditos:
+- **Link do Github com instruções da atividade:**(https://github.com/digitalinnovationone/trilha-html-modulo-3)
 
 
